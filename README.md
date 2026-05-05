@@ -21,3 +21,5 @@ Construir uma base analítica com o perfil comportamental dos usuários a partir
 
 ## 📈 Resultado
 Criação de uma tabela final consolidada com o perfil comportamental dos usuários, podendo ser utilizada para análise de retenção e segmentação.
+
+Link do banco de dados usado no projeto: https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system
